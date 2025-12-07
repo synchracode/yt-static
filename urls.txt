@@ -1,0 +1,3 @@
+https://realityripple.com/Tools/ytEmojiDB/read.php
+
+https://cdn.jsdelivr.net/gh/realityripple/yt-super-stickers/list.json
